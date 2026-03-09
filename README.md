@@ -23,8 +23,13 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
-[@anool](https://github.com/Anool)
-> 
+> _List team members and contact emails or GitHub profiles._<br/>
+> [@anool](https://github.com/Anool)<br/>
+> [Aaditya Borhade](https://github.com/Aadityaborhade09)<br/>
+> [Afiya](https://github.com/Afiya-gpj)<br/>
+> [Prince Kushwaha](https://github.com/PrinceKushwaha09)<br/>
+> [suzmak8-cloud](https://github.com/suzmak8-cloud)<br/>
+> [Swadhin Kumar Bhoi](https://github.com/swadhinkumarbhoi3-a11y)<br/>
+> [Dakshat](https://github.com/dakshatt)<br/>
 >
 > ---
