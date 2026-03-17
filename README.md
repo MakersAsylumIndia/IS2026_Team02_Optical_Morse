@@ -1,8 +1,6 @@
-# IS2026 Spring - NAME OF PROJECT
+# IS2026 Spring - Team 02 - Optical Morse
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
-
+We built a device to help communicate using simple lasers and LDR's which is not dependent on WiFi, Bluetooth or other radio technologies. We modulate a laser using morse code, which is interpreted on the receiving side using a LDR. Both sides have identical hardware - Arduino Nano for the microcontroller, a red laser, a LDR, and a mosfet module to modulate the lasers. Text is input via a serial monitor on the Arduino IDE, and on the receiving side it gets printed on the serial monitor as well. We built a simple tripod using 3d printed parts and PVC pipes to hold all the parts. For future iteration, we plan to add an I2C OLED display, some buttons and a 3d printable morse key so that the device can be used independently without attaching a laptop.
 
 ## License
 
@@ -24,6 +22,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._<br/>
+> [Maker's Asylum](https://github.com/makersasylum)<br/>
 > [@anool](https://github.com/Anool)<br/>
 > [Aaditya Borhade](https://github.com/Aadityaborhade09)<br/>
 > [Afiya](https://github.com/Afiya-gpj)<br/>
